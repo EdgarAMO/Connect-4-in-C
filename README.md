@@ -5,7 +5,7 @@ GENERAL USE NOTES
 
 - Choose a bin A, B, C, D, E, F, G. Lower case are valid too.
 - Choosing otherwise will prompt you to try again.
-- You can win either by connectinf four horizontally, vertically or diagonally.
+- You can win either by connecting four horizontally, vertically or diagonally.
 -------------------------------------------------------------------------------
 
 HOW TO COMPILE IN LINUX
