@@ -295,7 +295,8 @@ int check(char disc)
 			
 		}
 	}
-
+	
+	// end of main
 	return 0;		
 }
 	
